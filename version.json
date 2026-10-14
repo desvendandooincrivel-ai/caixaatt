@@ -1,0 +1,12 @@
+{
+  "version": "1.0.6",
+  "releaseDate": "2026-10-14",
+  "title": "Versão 1.0.6",
+  "changelog": [
+    "Sistema de verificação automática de atualizações integrado ao repositório caixaatt",
+    "Notificação interativa com visualização detalhada das mudanças",
+    "Opção para o usuário decidir quando atualizar ou adiar a instalação",
+    "Melhorias e otimizações gerais de estabilidade"
+  ],
+  "downloadUrl": "https://github.com/desvendandooincrivel-ai/caixaatt/raw/main/Controle-de-Caixa-Setup.exe"
+}
