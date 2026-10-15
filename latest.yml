@@ -1,8 +1,8 @@
-version: 1.0.8
+version: 1.0.9
 files:
-  - url: Controle-de-Caixa-Setup-1.0.8.exe
-    sha512: zm7xQsuy8JhohF3ZWHVoTwVZlZtUP8Gc/SgqiTYVtQjBAiAtAPgNzpe53gh8z3T9dPbAXA1svm3pv+FvQCS9eA==
-    size: 115080104
-path: Controle-de-Caixa-Setup-1.0.8.exe
-sha512: zm7xQsuy8JhohF3ZWHVoTwVZlZtUP8Gc/SgqiTYVtQjBAiAtAPgNzpe53gh8z3T9dPbAXA1svm3pv+FvQCS9eA==
-releaseDate: '2026-10-15T00:50:20.724Z'
+  - url: Controle-de-Caixa-Setup-1.0.9.exe
+    sha512: yzceaJ0raY2Nt8NzE4yc40zPMlQeIBjik/F0VZYepD8o43cC1D6W+zATlc7gl21CVMkr5SkDx9ZaRiCKQkiGUg==
+    size: 115080022
+path: Controle-de-Caixa-Setup-1.0.9.exe
+sha512: yzceaJ0raY2Nt8NzE4yc40zPMlQeIBjik/F0VZYepD8o43cC1D6W+zATlc7gl21CVMkr5SkDx9ZaRiCKQkiGUg==
+releaseDate: '2026-10-15T00:59:56.665Z'
